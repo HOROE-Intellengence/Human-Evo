@@ -1,0 +1,46 @@
+Title: Masters of Scale: How to get funded now, with Reid Hoffman
+URL: https://mastersofscale.com/how-to-get-funded-now/
+Date: November 11, 2025 (recorded live Oct 8, 2025 at Masters of Scale Summit)
+Participants: Reid Hoffman, Stacy Brown-Philpot (Cherryrock Capital), Aileen Lee (Cowboy Ventures), moderated by Van Jones; framed by Bob Safian (Rapid Response)
+---
+Note: Transcripts are automatically generated from episode audio, and are not fully corrected for spelling, grammar, and formatting.
+
+REID HOFFMAN: When we are in these times of disruption, the old power structures are no longer as firm or as strong. It doesn't mean they're non-existent, it doesn't mean that there isn't still privilege of which school you went to and which community you grew up in, but it means that that's a much less of a rigid guidepost. Don't limit yourself.
+
+AILEEN LEE: I think we have a lot of Icarus companies right now, right? They're flying pretty close to the sun. It's like a shoot-the-moon strategy.
+
+VAN JONES: The human dynamic here. In other words, no matter what the tech is and what the market is, if the people aren't able to work together and if somebody's sending a signal that they're the wrong jockey, that can blow up the whole thing.
+
+[Full roundtable]
+
+HOFFMAN: Yeah, two strong plus-ones of this. The way that all venture works is you're saying no to 600, 800 deals during the course of a year and yes to zero to two of them. And the AI acceleration in terms of the tools just being described means there's a ton more out there, which means that even though you go, "Look, I've got product market fit, it looks good, et cetera, et cetera," it's like, no, no, you got to understand what the benchmark of the competition is because it's not just a, "I look like I'm good." It's, "Okay. I'm going to say yes to a very small number of things. What are the other things in contrast that I might be saying yes to?"
+
+And to be clear, a lot of nos are like, "Oh, call me back on the next round, et cetera, et cetera." If you're not hearing a "yes," it's a "no," just to be super clear.
+
+Now, the other thing that is useful for entrepreneurs, go take your idea and go into your favorite frontier models and say, "Critique this. How would a skeptical VC, what would they tell me about this?" You will find that that is useful to you because you will encounter those questions in it.
+
+HOFFMAN (on negotiation): There's a very small number of deals that are so hot that you can just go, "Well, I'm going to tell you exactly what I want," and so forth. And sometimes some of those requests, even if you're a hot deal, are negative signals. I have passed on investments that are like, "Look, you're not being realistic to where you are, which means you won't be realistic in the future. And even though I like you and the product, your lack of realism here implies that I think you're going to not be successful." And by the way, valuable companies have boards. Valuable companies actually don't emphasize 10% versus 12% dilution. They emphasize chances of being successful.
+
+And I actually think on both sides that negotiation is because this is – fundamentally, one of the things I love about this investing business is you're trying to ultimately be non-zero-sum. You're trying to build so much value for everybody that it really works, but the negotiation itself is zero-sum because it's like, "Well, for a dollar I get X percent" as the equation. But that's a great learning experience between the investor and the founder to say, "Well, how do we navigate this particular thing?"
+
+And that's what both sides should be learning. And when I learn negative lessons in that dialogue, I go, "Eh. Oh, I'm good."
+
+HOFFMAN (on AI and jobs): When we have these major technological waves, the initial impulse in human beings is always like, "Oh my God, it's going to upend society. It's terrible." And by the way, the transitions are very difficult. I don't mean to be hiding the difficulty of the transition, but we don't have anything of our modern society without the printing press, which creates science and all the rest, without the Industrial Revolution. This is the cognitive industrial revolution. It will transform every job that involves language, and most jobs do, will get transformed. And so the skill set will be different.
+
+Typically, we go, "Well, I'm an expert because I've memorized a whole bunch of information..." Well, now we've got our memory agent with us, and the worst AI you're going to use is the AI you're using today. It's going to be increasing. So that will lead all kinds of transformations.
+
+And it's hard to envision exactly the way the world changes. You couldn't envision what would happen with the steam engine. You couldn't envision what would happen with the printing press, but you can shape it. And that's my – it's not I'm just blindly optimistic. It's that I have a bunch of historical information. I understand how we can build these things, and we can make it so that it's a much better elevated human agency, human condition. Now, the transition will be difficult, and so we need to navigate it.
+
+HOFFMAN: Look, I think no one – anyone who claimed they knew it either way is making a mistake, right? Definitely yes, definitely no, is a mistake.
+
+Now, the one that I use as a canary is customer service because roughly speaking as a proxy, any place where you're trying to get human beings to do a script, a job that robots do, robots can do it better.
+
+HOFFMAN: Well, actually, there's an important point to add on this. Look, there's no way to AI-proof yourself or AI-proof your job, but the jobs of the future will be: how well do you use AI in order to do them?
+
+So categorically, what I tell everyone is, "Start using it." Literally, it's almost like a ritual thing of how many times a day are you using Deep Research, because if you're not in information jobs, you're well behind the curve. So it's like, start using it personally. Don't say, "Oh, I'm smart. I know how to." No, start using it. You learn things.
+
+HOFFMAN (closing, on disruption as opportunity): When we're in these times of disruption, which obviously we are now, that means that the old power structures are no longer as firm or as strong. It doesn't mean they're non-existent, it doesn't mean that there isn't still privilege of which school you went to and which community you grew up in, but it means that that's a much less of a rigid guidepost.
+
+And so your ability to follow your imagination, to take risks, to be bold, don't limit yourself. Times of disruption, it's the reason why when you go to the old American mythos of going west, and the pioneering. Pioneering is the closest thing to entrepreneurship. The rules are shifting. So that's when the opportunities are there, and that's to lean in.
+
+SAFIAN (closing narration): As for Reid, well, I always learn something new listening to him. His obvious optimism about AI is paired with realism about how difficult the road to a better future will be. What strikes me overall is how high-wire things are right now for investors and founders, for all of us, but as Reid notes, in times of disruption, all bets are off. That's scary and fun and rife with possibilities.

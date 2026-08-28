@@ -1,0 +1,136 @@
+Title: Lessons that matter most: What we've learned from 100 episodes of Masters of Scale
+URL: https://mastersofscale.com/100th-episode-what-we-learned/
+Guests: Brian Chesky, Tyra Banks, Angela Ahrendts, Sallie Krawcheck, Franklin Leonard (roundtable, hosted by Reid Hoffman + June Cohen)
+Date: November 1, 2021
+---
+Note: Transcripts are automatically generated from episode audio, and are not fully corrected for spelling, grammar, and formatting.
+
+Chapter 1: The road to Masters of Scale's 100th episode
+
+BRIAN CHESKY: I just have this kind of simple model of entrepreneurship. All a business is, is that you have to just make something that people love enough to tell other people about it.
+
+HOFFMAN: That's Brian Chesky, co-founder and CEO of Airbnb.
+
+"To scale a business, you have to make something that people love enough to tell other people about it." That is one of the jewels shared in today's 100th episode of Masters of Scale – where you'll hear a roundtable discussion with five of our all-time favorite guests, including Brian.
+
+But we're not just looking back, we're looking forward. Each of our guests today share what they've learned, what they'd say differently, and what has changed in their scale journey.
+
+HOFFMAN: I hope you enjoy the 100th episode of Masters of Scale.
+
+Chapter 2: Success can come with loneliness
+
+HOFFMAN: I'm Reid Hoffman, co-founder of LinkedIn, partner at Greylock, and your host. Welcome to the Masters of Scale 100th episode round table. I'm joined today by our executive producer, June Cohen and five iconic founders, entrepreneurs, scale leaders, and friends of Masters of Scale.
+
+Please welcome: Tyra Banks, founder of SMiZE Cream and Bankable Productions, creator and executive producer of America's Next Top Model; Brian Chesky, co-founder and CEO of Airbnb; Sallie Krawcheck, co-founder and CEO of Ellevest; Franklin Leonard, founder of The Black List and film executive; and Angela Ahrendts, former Apple head of retail and former CEO of Burberry. Welcome everyone.
+
+HOFFMAN: To break the ice, I'm going to start by leading us through a classic round table discussion on entrepreneurship. Let's dive in. What's harder about entrepreneurship than most people realize? Brian, maybe you'd like to kick us off?
+
+CHESKY: Sure. Thank you very much Reid. Hey everyone. I always had this impression that you start a company by yourself or with a couple of friends, and it's kind of a lonely thing. And then you become, hopefully, very successful. As you get very successful, all these people join your company. What I didn't realize is the more successful you get, typically the lonelier you get. For me, I think the loneliness and the isolation is probably the thing that's so hard. I think the reason why is because, I mean, Reid you used to say starting a company is like jumping off a cliff and assembling the airplane the way down.
+
+Well, the problem is most people don't know what that's like unless they've done it. I think the challenge, at least when I came to Silicon Valley, is that a lot of entrepreneurs don't really confide in other entrepreneurs. Pablo Picasso once said, "The older you get, the stronger the wind gets, and it's always in your face." That could be said for the isolation as well.
+
+HOFFMAN: A hundred percent.
+
+LEONARD: Yeah. I would echo that profoundly. I think if I had to put it in just a few words, it would be the crippling self-doubt that you're doing it wrong. That only gets worse, like you said, Brian. The more success you have, the more people are dependent on you. At the end of the day you have to look at yourself in the mirror and say, am I going to build this plane by the time we hit the ground? That part of it for me has been the biggest challenge. Fortunately therapy exists. It's a big boon to my survival, but I agree with Brian, the more we can talk with each other about the realities of dealing with this stuff, likely, the better off we'll all be.
+
+KRAWCHECK: Yeah. This is Sallie. What's harder about entrepreneurship than most people realize? The answer's everything. The loneliness, absolutely. Particularly coming through a pandemic when it's even more heightened because you are trying to figure out what's going to happen, trying to figure out how it's going to affect your company, trying to save the company. Everybody in your network is doing the same thing at the same time. Some of whom were sick at the same time. But even beyond that, at the beginning, you are always one mistake away from failure. Raising money. I know we're all supposed to say, "Oh my gosh, it was so easy. They threw money at me, I was so oversubscribed." But it's rare that that happens. I think, what's harder? Everything.
+
+BANKS: I think one of the things that is really hard is when you're successful and you're doing it and making money and making impact, you win together. When you fail, you're alone. You, as that founder, are stuck with that failure where the team can move on to the next thing. That can make you feel a little lonely. Team is crucial. However, when you lose, you're alone.
+
+JUNE COHEN: I just wanted to add in that in hearing everyone's answer here, I think it's so interesting that there's almost always the default answer from entrepreneurs is actually about the personal journey, and that's not what most business media cover. I think one of the most interesting things we've learned together, Reid, on this show, is that it's actually the personal stories of entrepreneurs that speaks perhaps even the most loudly to our audience, that the show becomes a company on the journey. And then through the valley of darkness, that is it, it happens to all of us along the way.
+
+Chapter 3: Expensive lessons entrepreneurs learned
+
+HOFFMAN: Amen. Let's move on to the next question, which is: What's the most expensive lesson you've ever learned? Sallie, why don't we start with you on this one?
+
+KRAWCHECK: Yes, it is holding onto people for too long. You start a business, everybody tells you it's going to be hard if it's not going well. Nobody tells you it's going to be hard if it's going very well. Because you scale through people who started the company with you, and it happens so dang fast. Someone is doing great this week. Next week they look a little miserable, they look a little unhappy, and you're, "Well, they're having an off week and the second week and the third week." Having grown up at big companies, you try to re-pot them, you try to coach them, you try to help them. They have your heart because they started with you. And so I kept too many people in roles they shouldn't have been in too long. Frankly, I tried to re-pot too many people rather than just saying, you know what? It's time to move on. Reid, I've learned that lesson now several times, just not once.
+
+HOFFMAN: Yes, indeed.
+
+KRAWCHECK: It hurts the whole company, if you don't do it. You've got to steel yourself for the good of the company to say goodbye to people you love.
+
+HOFFMAN: Franklin, same question.
+
+LEONARD: I actually think the most expensive lesson I ever learned was that I needed to trust myself more and lean into what I am now doing. I think I lost a lot of time and frankly, potential impact by not building The Black List into a business sooner. That came about I think as a result of trusting that the people that were running the system, running Hollywood before, had the best interests of the industry in mind and in heart, and were capable of executing on what those best interests were. I since realized that's not the case, which is why my business is thriving. I wish I had realized that lesson a bit sooner.
+
+HOFFMAN: Yeah, indeed. Angela, what's the most expensive lesson you've ever learned?
+
+AHRENDTS: Not trusting my original gut instincts. When you have an idea, a vision, a dream, keep using your instincts. I think, take all the input from everyone else. But if it doesn't align to your vision and dream, then who's to say that's any better than your instincts? I've only failed when I've not trusted my instincts.
+
+HOFFMAN: And Brian.
+
+CHESKY: Number one is not hiring senior leaders fast enough. I think the other one, and Angela has been on this journey with me is, when I started Airbnb, I didn't know any better. I just did what I thought was right because I had no other advice. I think the challenge is that every company starts unique, unique to the founders. The challenge is as you scale, you start to bring in people, investors, executives. If you're not careful you start to conform. Every company starts looking more and more alike, the bigger they get, and you start to lose a little bit of yourself every single day if you're not really careful.
+
+I think the challenge is you want to listen, you want to take advice, but then you also ultimately want to listen to your own path and do something that is unique to you.
+
+Chapter 4: Spend time to get to know your customers
+
+HOFFMAN: So we're now going to transition. I've interviewed everyone here for their own episodes of Masters of Scale in the past. I'd love to reflect on our original conversation and your episodes a bit. Brian, I'd love to start with you. As many of you know, Brian's episode was the very first episode ever of Masters of Scale, so it's only fitting we start with Brian. I think we're going to start with playing a clip from your episode.
+
+[Brian Chesky Clip — Paul Graham story]
+
+CHESKY: He asked us, "Where's your business?" I go, "What do you mean?" "Where's your traction?" I go, "Well, we don't have a lot of traction." He goes, "Well, people must be using it." I said, "There's a few people in New York using it."
+
+And he said something I'll never forget. He said, "So your users are in New York, and you're still in Mountain View?" I said, "Yeah." He said, "What are you still doing here?" And I go, "What do you mean?" He said, "Go to your users. Get to know them. Get your customers one by one." And I said, "But that won't scale for hugely millions of customers. We can't meet every customer." And he said, "That's exactly why you should do it now, because this is the only time you'll ever be small enough that you can meet all your customers, get to know them, and make something directly for them."
+
+CHESKY: We literally commuted to New York from Mountain View... "Knock, knock. Hello. Hey it's Brian and Joe. We're founders. We just want to meet you." ... We'd send a professional photographer to your home and photograph your home. Of course, we didn't have any money and we couldn't employ photographers. So Joe and I, we'd show up at their door... It's really hard to get even 10 people to love anything, but it's not hard if you spend a ton of time with them.
+
+HOFFMAN: So Brian, I am sure that you remember this. It's among the things that I really loved was the kind of both scrappiness and vision of the huge future. Any reflections as you now look back?
+
+CHESKY: I just have this kind of simple model of entrepreneurship. When we joined Y Combinator, the first day they'd give us a t-shirt, and on the front of the t-shirt it said, "Make something people love." ... build something a hundred people love, not something a million people kind of like. It's very, very hard to make something a hundred people love. And the challenge here is, scale is your enemy... embrace being small, make something perfect because that's going to be what fuels your company going forward.
+
+HOFFMAN: Well, which enables you to get to scale since obviously you do have to get to scale.
+
+CHESKY: Exactly. And then eventually you have to operationalize the scale, but only after you've perfected the product.
+
+Chapter 5: Things move at the speed of trust
+
+AHRENDTS: ... to do anything great – whether it's your investors, the founders, whether it's the team you're bringing in – when you build a team that just innately trusts, and you got to hire for trust, and then what happens is then everyone feels empowered. And I think it unlocks their greatest creative thinking... I don't think we talk enough about trust in any sized business, but every relationship, it has to be built on trust. And if it is, the world is your oyster.
+
+CHESKY: And I'll just jump in to say, Reid, you wrote a book called Blitzscaling. There's an old saying, "Things move at the speed of trust." So in startups, I think trust is especially important because that is really how fast you can move.
+
+HOFFMAN: Yep. I completely agree. We've touched on it a couple of different ways in Masters of Scale. I think those are essential points.
+
+Chapter 6: Cultivate your personal brand to pivot
+
+BANKS: Smize Cream ... The craziest pivot I have ever done in my life... I ordered from every single ice cream company in this country that delivers. I have about 250 pints of ice cream. I have six freezers in our garage... And then I was like, oh my God, this is no longer a passion, this is an expertise.
+
+HOFFMAN: Tyra's epic journey from model to reality show creator, to Stanford instructor, to founder, to ice cream magnate is one that might not suit almost any other entrepreneur on the planet, but makes perfect sense for her. And that is exactly the point of cultivating a personal brand. Startups can come and go, and so do employers. In our current very uncertain landscape, the thing that remains constant is you. How you solve problems, how you learn from mistakes, how you build networks and relationships, and what you stand for.
+
+Chapter 7: Know when to pause and when to shift
+
+BANKS: So when Brian was speaking about creating a product for a hundred people and not a million... it really struck me... Because if they don't think it's cool, big poppa is not going to be calling. They're only calling now because we're new.
+
+KRAWCHECK: The other thing I would add is also know when it's time to shift. During the pandemic I remember calling my head of product and saying, "All I know is the world has changed completely... let's take a step back." ... For us at Ellevest, what we did was stop everything. And then we'll pick up the product roadmap on the other side, which ended up being different than the one we'd been working on.
+
+Chapter 8: Build a network and ensure diversity
+
+KRAWCHECK: Networking has been cited as the number one unwritten rule of success in business. And men tend to have stronger networks than women earlier on... What I would say is: you gotta start building it from the moment you start. Who are entrepreneurs that I want to get to know... And my approach to networks is I try to do as many favors as I possibly can, that it's not about what I can get from it. It's what I can give and give and give and give to it. And that it will come back to me later.
+
+Chapter 9: Key to success: women supporting women
+
+KRAWCHECK: I'll be a little sparky and a little controversial, which is that somehow you gentlemen learned early on that business is a team sport. And you fund each other, and you invest together in companies, and you bring each other in the deals, and you put each other on the boards, and you talk each other up. And somehow we, women, along the way, sort of picked up that it was an individual sport... women coming together to support women is a key to us becoming more successful.
+
+Chapter 10: Focus on the signal instead of the noise
+
+LEONARD: 1,200 scripts in the list. 400 of them have been produced. 54 Oscars. Four best pictures... $30 billion in worldwide box office. ... Movies made from scripts on the Black List made 90% more in revenue than movies made from scripts not on the Black List. ... Find scripts that people are responding to emotionally.
+
+LEONARD: I've sort of always believed that all artists are entrepreneurs on some level. You're accreting labor and capital in order to create something that has value in the marketplace... that which is great that moves an audience emotionally is the thing that they will jump on social media, their group chat, or talk to a friend about. And that is how those things will become successful, especially in a highly connected globalized world.
+
+Chapter 11: Share your story: Entrepreneurs always look for advice and insight
+
+HOFFMAN: Awesome. So let's end with saying, look, where does storytelling play into how you tell your founding story, what you're doing, how you're doing your company?
+
+COHEN: So I think that the founding story of this podcast started with what would later become the theory in the Reid Hoffman episode of it, which the theory in the Reid Hoffman episode of Masters of Scale is: in order to scale, you have to make other people the hero in their own story, not yours. ... Then we thought, "Both who is the person in that space who can offer the most advice, the most insight, the most wisdom, and would be most motivated to do so? Who will be the hero in their own story by bringing wisdom to entrepreneurs?" The only answer to that is Reid Hoffman...
+
+HOFFMAN: No. June's one of the very few people who could persuade me that I might have a chance at being talent. But actually, the storytelling stuff is super important. All of us are there.
+
+LEONARD: The most effective stories are the ones that center a person, make that person actually human, and move a person emotionally with the recounting of their adventures. I don't know that there's any other way to tell a story effectively.
+
+CHESKY: I think the way to tell your story as a founder is passionately, all the time, in a way that everyone can relate to. ... Everyone knows what you want, and the obstacles are things that almost everyone can relate to... The moment they relate to you, they start to root for you. You humanize the company.
+
+AHRENDTS: The most vulnerable that you are and when you are a bit insecure and you share with the team that you don't know, and you need them, that's actually when the team unites the strongest collectively to achieve incredible things.
+
+COHEN: I'd say the single most important thing in storytelling is ... the vulnerability. ... vulnerability, it's like that's the story that sticks.
+
+HOFFMAN: I think with that, we are a wrap for all of our listeners. Think, "What is your story? What is the story that you live? What is the story that you tell?" Thank you from my heart, Angela, Brian, Tyra, Franklin, June, and Sallie for joining us today. I'm Reid Hoffman. Thanks for listening.

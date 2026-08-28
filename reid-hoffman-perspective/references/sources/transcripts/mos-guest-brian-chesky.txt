@@ -1,0 +1,73 @@
+Title: Masters of Scale: Do things that don't scale, with Brian Chesky
+URL: https://mastersofscale.com/brian-chesky/
+Date: May 3, 2017 (Episode 1 of Masters of Scale)
+Guest: Brian Chesky, co-founder & CEO, Airbnb
+Host: Reid Hoffman
+---
+Note: Transcripts are automatically generated from episode audio, and are not fully corrected for spelling, grammar, and formatting.
+
+BRIAN CHESKY: Joe and I are broke. We're losing weight, and I didn't have a lot of weight to lose. You know those binders that you put baseball cards in? We put credit cards in them. At this point I am $25,000 in credit card debt. Joe is tens of thousands of dollars in credit card debt. So this is make or break. We need a lifeline.
+
+REID HOFFMAN: That entrepreneur in need of a lifeline? That's Brian Chesky, co-Founder and CEO of Airbnb... Today, Airbnb is valued at $30 billion. Eight years ago? A very different picture.
+
+[Obama O's / Cap'n McCain's cereal story — they hot-glued 1,000 boxes of collectible cereal to survive a cash crunch]
+
+HOFFMAN: But what was a good sign was Brian's willingness to work with his hands — burns and all. I'd argue that painstaking, handcrafted labor is actually the foundation of his success. In order to scale, you have to do things that don't scale.
+
+HOFFMAN (intro to theory): I'm Reid Hoffman, co-founder of LinkedIn, partner at Greylock, and your host. On this episode, I'll make the case that the only way an organization can truly scale, is to first do things that don't scale at all. I'll try to prove that theory through stories from some of the smartest entrepreneurs I know.
+
+Over the last 20 years, I've worked on or invested in many companies that scaled to 100 million users or more. But here's the thing: You don't start with 100 million users. You start with a few. So stop thinking big, and start thinking small. Hand-serve your customers. Win them over, one by one.
+
+Now this may sound like odd advice if you're an entrepreneur with global ambitions. Mark Zuckerberg didn't personally invite 1.8 billion people to Facebook. He built a great product, and the users just poured in. Right? Not exactly.
+
+--- "Go to your users" (Paul Graham / Y Combinator story) ---
+
+CHESKY: He asked us, "Where's your business?" And I go, "What do you mean?" "Where's your traction?" And I go "We don't have a lot of traction." He goes, "People must be using it." I said, "There's a few people in New York using it." And he said something I'll never forget. He said, "So your users are in New York and you're still in Mountain View." I said, "Yeah." And he said, "What are you still doing here?" And I go, "What do you mean?" He said, "Go to your users. Get to know them. Get your customers one by one." And I said, "But that won't scale. If we're huge and we have millions of customers we can't meet every customer." And he said, "That's exactly why you should do it now, because this is the only time you'll ever be small enough that you can meet all your customers, get to know them, and make something directly for them."
+
+CHESKY: We literally commuted to New York from Mountain View... "Knock, knock. Hello. Hey, this is Brian, Joe, we're founders and we just want to meet you."
+
+HOFFMAN: Now, it's a little creepy to just knock on the door unannounced.
+
+CHESKY: We needed an excuse to get into their home. [photographer offer]... It's really hard to get even 10 people to love anything, but it's not hard if you spend a ton of time with them.
+
+CHESKY: I used to joke that when you bought an iPhone, Steve Jobs didn't come sleep on your couch, but I did.
+
+CHESKY (on the binder-of-notes host): He comes back with a book — it's a binder — and he's got dozens of pages of notes. He ends up creating a product roadmap for us... "The roadmap often exists in the minds of the users you're designing things for."
+
+--- Create the 11-star experience ---
+
+HOFFMAN: It is typical to get very detailed feedback from some of your early users. And if you're not getting some people who say, "This is super important to me. I love this. I really need this to work well," it usually means you're off track. Passionate feedback is a clue that your product really matters to someone.
+
+CHESKY: We'd ask these questions like, "What can we do to surprise you? What can we do, not to make this better, but to make you tell everyone about it?"... If I were to say, "Reid, what would it take for me to design something that you would literally tell every single person you've ever encountered?" You start to ask these questions and it really helps you think through this problem.
+
+HOFFMAN (LinkedIn LIONs digression): It's essential to seek out and listen to user feedback. But the caveat is: You have to figure out which users to listen to... We had one group of users who invented a name for themselves. They called themselves LIONs — which is LinkedIn Open Networkers... they're actually not the majority case... We had to steer away from a bunch of passionate users who told us very explicitly that we were fools for not following their advice.
+
+CHESKY (star-rating exercise, 1-star to 11-star, ending): So what would an 11-star experience be? I would show up at the airport and you'd be there with Elon Musk and you're saying, "You're going to space." The point of the process is that maybe 9, 10, 11 are not feasible. But if you go through the crazy exercise of "keep going," there's some sweet spot between "they showed up and they opened the door" and "I went to space." That's the sweet spot. You have to almost design the extreme to come backwards.
+
+HOFFMAN: But which part of the perfect experience do you scale? The most ambitious entrepreneurs — let's call them the Elons, after my friend Elon Musk — probably get there through raw energy...
+
+--- Build by hand until you can't ---
+
+CHESKY: We had a saying that you would do everything by hand until it was painful. So Joe and I would photograph homes until it was painful, then we get other photographers. Then we'd manage them with spreadsheets until it was painful. Then we got an intern.
+
+[Ellie Thiele intern story; Patrick Collison / Stripe bleary-eyed customer-service-bot story; Paul English / Kayak cell-phone-as-support-line story; Nancy Lublin / Dress for Success futon story]
+
+CHESKY: The designing of experience is a different part of your brain than the scaling your experience. It's a different skill set. The scaling experience is a highly analytical, operations oriented, and technology oriented problem. The designing of experience is a more intuition based human, empathetic, end-to-end experience.
+
+HOFFMAN: One parallel might be writing and editing. So the handcrafted phase tends to be more like writing... Whereas the scaling phase tends to be more analytical. It's more like being an editor.
+
+--- Take your customer on their own hero's journey ---
+
+CHESKY (on scaling pains): We are just this little company in our apartment, but as far as the world's concerned, we have a giant office building and we better be grownups... It's like a videogame. You slay a dragon. You think you've completed the board game, and then you have the next level, and all of a sudden the dragons get really big.
+
+HOFFMAN: When you're slaying dragons, it's hard to hold on to the handcrafted mindset. Still, I would argue that the sharpest founders never fully abandon the mindset, no matter how big their company gets. The organization will start having antibodies against new handcrafted things... So what you need to do as a founder is to be extremely choiceful of which handcrafted innovation you choose, and how you protect it organizationally. You need to protect it, because the natural reaction of the scale organization will be to kill it.
+
+CHESKY (Ricardo / Airbnb Trips story — hiring a Pixar storyboard artist, the hero's journey applied to trips): I see him at the end of the trip. I say, "How was your trip?" He says, "It was amazing." And then I walk away. He yells at me. "Brian, one more thing." He starts crying. He breaks down, he says, "Thank you. This is the best trip I've ever had." ... We are confident on an unscalable basis that we know how to create a trip that deeply moved somebody that's better than anything they've ever experienced. The question is: Can we develop a technology that scales and do it 100 million times?
+
+CHESKY (hero's journey mechanics): When you first go to a city, you need a welcome event within the first 24 or 48 hours where you're around people... By day two or three, you need to have a challenge out of your comfort zone. If you do not leave your comfort zone, you do not remember the trip. If you can belong out of your comfort zone and something new happens to you, then there's going to be a moment of transformation where the person you were in a small way dies and a new, better version of yourself is reborn.
+
+CHESKY (closing message to founders): I tell a lot of entrepreneurs who don't have traction, I miss those times. Yes, it's exciting to have traction, to have a company that's huge scale, but the biggest leaps you ever get is when you're small... The most innovative leaps you'll ever make, especially if you're a network, are going to be when you're really, really small. You can change the product entirely in a week. Try doing that at LinkedIn or Airbnb today. That would be a huge disaster.
+
+HOFFMAN (closing "my theory is" summation): And if you have a tiny startup, I have good news for you. Now is the moment you can take the most daring leaps of your career. Dream big. And act small. Pay passionate attention to your users. Handcraft the core service for them. Create a magical experience. And then figure out what part of that magical handcrafted thing can scale.
+
+I'm Reid Hoffman. Thank you for listening.

@@ -1,0 +1,538 @@
+Title: Masters of Scale: Make everyone a hero (Part 2), with Reid Hoffman
+URL: https://mastersofscale.com/reid-hoffman-make-everyone-a-hero-part-1/
+Source element: <article>
+---
+MASTERS OF SCALE
+|
+FEBRUARY 26, 2019
+Make everyone a hero (Part 2)
+Masters of Scale’s Reid Hoffman
+
+We’re back with season four — and part two of our turning the tables episode with Reid Hoffman. (If you missed part one, go listen now!) In this episode, we follow Reid through PayPal, LinkedIn (and Microsoft’s acquisition), and Greylock, and catch up him as host of Masters of Scale — all the while proving our theory that you can chart an epic journey to scale if you make everyone a heron along the way. Hosted by June Cohen, executive producer of Masters of Scale and CEO of WaitWhat.
+
+Spotify
+Apple Podcasts
+Amazon Music
+Play
+Make everyone a hero (Part 2) — with Masters of Scale’s Reid Hoffman and WaitWhat’s June CohenMake everyone a hero (Part 2) — with Masters of Scale’s Reid Hoffman and WaitWhat’s June Cohen
+0:00 / 0:00
+Rewind
+Fast Forward
+1x
+Download
+ABOUT REID
+Founded LinkedIn
+
+Hosts Masters of Scale
+
+Founded Manas AI, a drug discovery company
+Table of Contents:
+Don’t just look for money when seeking investors
+Reid Hoffman on LinkedIn's origin story
+Inside LinkedIn's CEO transition from Reid to Jeff Weiner
+Be passionate about entrepreneurship
+Reid's Lightning Round
+Make everyone a hero (Part 2)
+
+Note: Transcripts are automatically generated from episode audio, and are not fully corrected for spelling, grammar, and formatting.
+
+NARRATOR: Previously on Masters of Scale…
+
+REID HOFFMAN: I’m about to change roles. For this two-part episode, I’ll answer the questions. And my good friend June Cohen will ask them.
+
+JUNE COHEN: What did you learn about human motivation playing Dungeons & Dragons?
+
+HOFFMAN: I did learn that people wanted to be the hero of their own story, that that was a fundamental kind of human drive across almost everybody.
+
+COHEN: Reid felt ready to launch his first startup, SocialNet.
+
+HOFFMAN: The theory of human nature is that we’re social animals. What gives people the most fabric, and meaning, and joy, and presence in life is other people.
+
+COHEN: When SocialNet folded, Reid already had the idea that would become LinkedIn. Reid took his fledgling idea to Peter Thiel.
+
+HOFFMAN: And he was like, “No, you shouldn’t start another company yet.”
+
+And I was like, “Really? I think I should.”
+
+He was like, “No, no. You should come join PayPal.
+
+COHEN: What was the biggest fire you put out at PayPal, and what was the biggest fire you let burn?
+
+HOFFMAN: I had to solve all of them. Otherwise the value of PayPal is zero. Like roadkill, out of business.
+
+NARRATOR: Will Reid save PayPal from its demise? Will he realize his vision of a more connected world? Find out now on Masters of Scale: The Reid Hoffman Story. Part 2.
+
+COHEN: When we last left Reid, he was at PayPal.
+
+And PayPal has become something of a legend in Silicon Valley – partially because of its incredible cast of characters: Peter Thiel. Elon Musk. Max Levchin. Luke Nosek. And of course, Reid Hoffman. Each of them would go on to define their own hero’s path after PayPal – cementing PayPal’s place in history.
+
+In fact, it brings to my mind another legendary group: The Beatles. Hear me out. Like the Beatles, the core team behind Paypal would go on to transform the world. Okay, so maybe the Paypal team lacked the throngs of screaming groupies.
+
+But, like the Fab Four, they were crazy geniuses. Each of them a hero on their own creative journey. Leading fans and commentators to later ask: Whose genius made the group what it was? Or was it the group that made them geniuses?
+
+It just seemed so unlikely that they would have found each other at all. They also went through distinct phases – the idealism of their early days when they first banded together to the middle period, where they combined all of their strengths to make something the world had never seen. And eventually the later period, where the cracks started to show.
+
+Our group of strong-willed heroes had achieved all they could together, and parted ways before stuff got too weird. During his heyday at PayPal, Reid says this team of heroes were united toward a common goal:
+
+HOFFMAN: We were willing to be really bold, we were willing to take risks. We didn’t kind of panic about our careers if, “Oh gosh, this thing blows up and doesn’t work.”
+
+So, you got a lot of people who had that level of similarity all willing to work together, despite the fact they had enormous political differences, what the mission of the company was.
+
+COHEN: But while you may picture yourself on a boat on a river, before long, you’ll hit rapids.
+
+Reid was working every day – 8 days a week – to keep the PayPal team pointing in the same direction.
+
+They were united for a time, toward a common mission. PayPal was helping all of them be heroes in this chapter of their own stories. But the later chapters had very different endings. They all had different ways of thinking. Different goals. So there was a friction between them. And it would crop up at the strangest of times.
+
+HOFFMAN: It was late one night, like 10 PM, we were all working super hard. I was heading home, it might’ve even been 11. And Peter said, “Hey, can I talk to you for a minute?” And I was like, “Sure.”
+
+COHEN: Reid and Peter actually had a short-lived public access talk show together where they would argue their views in front of bemused guests and audiences. So Reid was used to strange interactions with Peter. It was part of the bedrock of their friendship. So Reid braced himself.
+
+HOFFMAN: And he’s like, “Well Reid, I don’t really know why you work here.”
+
+And I’m like, “Okay, I’m curious. Give me the next three sentences.”
+
+And he’s like, “Well, but you know what our real plan is, our secret plan.”
+
+And I was like, “No, I’m still lost. Another three sentences.”
+
+And he says, “Well, you know that the last thing that’s propping up nation state governments is their control over currencies.”
+
+And that PayPal becomes a private company that can essentially break that free.
+
+COHEN: Imagine here Reid rolling his eyes as Peter launches into another of his famous diatribes.
+
+HOFFMAN: “And we have these t-shirts printed, ‘the new world global currency,’ we had these t-shirts printed and this is the real mission, and you don’t believe in that mission, and you’re working here. So I was curious about that.”
+
+And I said, “Okay Peter, you and I were both in the meeting where we decided that we were gonna be in dollars, not in PayPal-ians, right? Not in beenz, not in flooz, but in US dollars. So I’m working at a master merchant. The real question is, what company are you working at? And you should think about that a little bit, and I’m going home, it’s late.”
+
+COHEN: I love this insight into the dynamic between Peter and Reid. All that passion, which could so easily cause them to fly apart like an unstable radioactive atom, is instead binding them together. Letting them harness all that energy for the mission they all believe in. Of course, once they achieve that mission, they are likely to go flying apart. But that’s okay.
+
+I believe that to chart a truly epic journey to scale – you need to make everyone you enlist a hero – not just in your story, but in their own.
+
+[THEME MUSIC]
+
+COHEN: I’m June Cohen. Executive Producer of Masters of Scale; co-founder – with Deron Triff – of WaitWhat, the company behind it, former head of media at TED, and – for just this special 2-part episode – your host. And I believe that to chart a truly epic journey to scale you need to make everyone you enlist a hero, not just in your story, but in their own.
+
+This idea of making others a hero is at the heart of every movie you’ve ever loved. But somehow, when it comes to our work lives, we lose the plot.
+
+Think about “The Wizard of Oz”. Dorothy has to make it to the Emerald City, in order to meet the Wizard and find her way home. She recruits a team – the Tin Man, the Scarecrow, the Lion – to travel the yellow brick road with her.
+
+But each was really looking to become a hero in their own story. If the scarecrow didn’t have a chance of getting a brain, if the Tin Man couldn’t get a heart – they wouldn’t have braved those attacks from flying monkeys! They would have warmly wished Dorothy the best of luck, as they waved her on her way from the safety of Munchkinland.
+
+And it’s the same for you. If you want your collaborators and customers to really go the distance with you – you have to ask: How can I make each of them a hero in THEIR story, and not just mine?
+
+I wanted to talk to Reid about this theory because he has a language around hero-dom – and a set of practices which come up again and again on Masters of Scale. In Part 1 of this episode we heard the origin stories behind Reid’s ideas on hero-dom and some of his foundational beliefs like the concept of tours of duty.
+
+In Part 2, Reid puts those ideas into practice through LinkedIn, through investing at Greylock, and through his most recent book Blitzscaling, which like this podcast gives everyone the tools to scale a company or idea. We’ll build the theory as Reid builds his career.
+
+When we left Reid, he was PayPal’s chief firefighter – and there were flames all around him. A heart-stopping $10 million dollar month burn rate! Ten thousand customer support emails unanswered each week!
+
+As a quick refresher, PayPal was an independent payment system. But their users were all on eBay. And eBay had purchased a different payment system, which of course, eBay preferred to use. It didn’t look good.
+
+HOFFMAN: eBay was pretty certain for years that PayPal as a separate entity was a big risk factor for them. They looked at PayPal as kind of the wild, wild west. No law and order, no sheriffs in town, these untrustworthy scruffy sorts of people.
+
+COHEN: You have to understand, eBay leaders saw themselves as the kinds of heroes who ran a tight ship. These PayPal pirates felt like a real threat to eBay’s idea of hero-dom.
+
+HOFFMAN: Our real first goal was just simply persuading them that it was okay to leave running. It was a full court press across the entire field to try to keep eBay onboard with PayPal growing and thriving on the eBay marketplace.
+
+COHEN: Reid fed eBay a constant stream of alternate storylines by which eBay could emerge a hero, with PayPal’s help:
+
+HOFFMAN: “Hey, you should allow for innovation, this is quintessential American and there’s all these sellers and buyers across the country who really depend on this alternative payment service that isn’t bundled with your monopoly market service,
+
+COHEN: Reid also warned eBay about the dangers of crossing PayPal.
+
+HOFFMAN: And then also making sure that they understood that there would be a huge cost to trying to shut us down, making sure that PayPal customers were being very public and vocal about how much they loved the service
+
+COHEN: Ultimately, this customer love is what saved PayPal. eBay’s customers’ overwhelming preference for PayPal made it diplomatically difficult for eBay to oust them. But how did PayPal actually win over eBay customers? In this case, it didn’t involve making anyone a hero. No, sometimes fortune favors the fast.
+
+HOFFMAN: Our whole trick to dominating that platform was to be faster than the eBay technology.
+
+COHEN: The eBay technology determined the auction winner, and then sent an email. And here’s the crazy, tiny detail that allowed PayPal to win.
+
+HOFFMAN: So you would frequently get a notification from PayPal like 80, 90% of the time, that you had won the auction, before eBay had notified you that you had won the auction. Because, “Oh, you won the auction. Here, you can pay with PayPal.”
+
+COHEN: So eBay customers used PayPal, because PayPal’s emails arrived first. You just never know which small tactic will let you emerge the hero…
+
+Copy Link
+Don’t just look for money when seeking investors
+
+As you may already know, Reid’s story at PayPal ends well. eBay buys PayPal for $1.5 billion dollars. And Reid has what you might call a freedom fund that will make it possible to launch his long-delayed second startup. But the timing isn’t great.
+
+HOFFMAN: This is fall of 2002 when the deal closes, and the Silicon Valley intelligentsia, everyone has concluded that the internet trend has played out. Like every other technological trend, which had been semiconductors, and enterprise software, and networking equipment – there are some winners – then you move on to the next trend.
+
+COHEN: Investors assumed that the web was dead. But Reid saw it differently.
+
+HOFFMAN: And what I realized was that the internet was just starting. It’s going to transform how we live our lives, how we work, how we buy stuff, all of that was actually still in its infancy.
+
+COHEN: Reid now had a movie playing in his head. In that movie, the biggest wins of the Internet age were still ahead – some of them would come from social networks, anchored in your real identity. And Reid would be among the heroes who would help create this new world. Now he was considering which kind of hero he wanted to be…
+
+HOFFMAN: What I was interested in was playing out this new rebirth of the internet, both as an investor and as an entrepreneur. I didn’t know if I’d be a good investor or not. “I’m doing some investing to see if that’s what I understand and I’m doing some entrepreneurship to see if that’s the thing I would do.” So, I wanted to place a set of bets.
+
+COHEN: So what was the first bet that Reid placed?
+
+HOFFMAN: The first pure angel investment was Friendster.
+
+COHEN: Friendster! Of course Reid’s first investment was Friendster. If you were writing a movie about a character named Reid Hoffman, you would have his first angel investment be in Friendster. Here’s why:
+
+HOFFMAN: Friendster was the first of the modern social networks. It was, “Everyone has a real identity, everyone connects with other people whose names and pictures they see.”
+
+I’m a huge believer in real identity, real relationships, and as a platform for applications about how you navigate your life. That made Friendster very easy.
+
+COHEN: It was easy for Reid to invest in Friendster. And not just because it had the potential of great returns. Reid invested, because Friendster was building the kind of social network Reid believed in. Friendster’s success would make Reid a hero in his own story.
+
+And this is such an important lesson for anyone seeking investors. Don’t just look for money. Look for people whose personal mission will be advanced by your success. People who will see themselves as a hero in their own story if you succeed.
+
+My co-founder Deron and I followed this advice when we were fundraising for the startup behind Masters of Scale. We believe deeply in the strategic advantage of diversity and gender balance. Some of you might remember that Masters of Scale was the first American media property to commit to a 50/50 gender balance in our guests. We wanted gender-balanced investors in our company as well, so we decided to raise money from women first.
+
+This led to hilarious conversations like “Um, sorry we’re just not taking money from men yet.” But it worked. It created gender balance while giving investors who champion diversity – and all of ours do – another reason to feel like heroes in their own story.
+
+Reid continued his hero’s journey with each of his investments: Friendster. Flickr. Facebook. Groupon. Each startup helped build this world Reid had imagined in which our personal networks intersect with our online lives. Each startup made him a hero in his own story.
+
+But Reid had another story to write. With his angel investments just taking shape, Reid set out to launch his own second startup – one that would build on his long-standing theory of human nature. I love the way Reid expressed this in Part 1, so let’s reprise it here:
+
+HOFFMAN: What gives people the most fabric, and meaning, and joy, and presence in life is other people. The theory of human nature is that we’re social animals. That while there are introverts and extroverts, and while there are some people who really like being hermits, actually in fact, the vast majority of human race finds themselves getting meaning and joy and satisfaction, evolution on the people you’re connected to.
+
+Copy Link
+Reid Hoffman on LinkedIn’s origin story
+
+COHEN: With this theory in mind, Reid set out to launch LinkedIn in 2002. He knew he would build a platform that leverages the connections between people, to change lives for the better. He was looking for a BIG idea. And of all the ways people might connect online work felt the most urgent. The thesis was clear to him:
+
+HOFFMAN: Our real identities, our real networks will become the platform by which we greatly enhance how we find opportunities, and how we work. It most naturally starts when people are thinking about job searching, because when they’re job searching, they’re motivated enough that they’ll try something new.
+
+COHEN: Reid understood that for people to try something new – they need strong motivation. And that motivation often springs from the desire to emerge a hero in their own story. Job-searching was one powerful source of that motivation. But while Reid was clear on LinkedIn’s role, potential users found it a bit foggy.
+
+HOFFMAN: People were literally like, “I have no idea what you’re talking about.”
+
+COHEN: People were also ambivalent about the idea of networking.
+
+HOFFMAN: “Is this a service for people who intrinsically like networking?” Because we all know networking is important for our careers, but it’s like flossing. Most of us really don’t like doing it.
+
+COHEN: And everyone seemed to think the LinkedIn approach to networking was a great idea for someone else.
+
+HOFFMAN: We talked to young people and they’d say, “Oh yeah, that could be a valuable service, but for experienced professionals.” And you talked to experienced professionals and they’d say, “Oh, that could be a good service, but that would be for young people.” You talked to technologists and they’d say, “Yeah, that would be a good service for the traditional industry trying to figure out new tech, but not for me.” You talk to the old industries and they’d say, “Oh, that would be a good service, but that’s for the newfangled tech industry but not for us.”
+
+COHEN: “It’s not for us.” One of the many polite rejection cards you get handed when the world can’t see how your idea would help them – or anyone – become a hero. Like every entrepreneur, Reid had to decide how to act on the lukewarm responses to LinkedIn: Should he fold his hand, or play it?
+
+HOFFMAN: So, we knew that we had a range of these neutral to negative reactions. We said, “Look, do we have deep conviction that as we get through this, we will build an essentially valuable service to the vast majority of people, and that as they see it in action, their views will convert?
+
+COHEN: Reid had the conviction. He went all-in to build the service where everyone would share their professional details, and build their professional networks. But how would he get his very first users?
+
+Now, you might be thinking: Wouldn’t it be easy for Reid Hoffman to get users? He’s a Stanford grad, an angel investor. His PayPal cohort alone was re-shaping Silicon Valley. Couldn’t he just call his friends? I asked Reid how he got LinkedIn’s first users.
+
+COHEN: Did you reach out to a number of super connectors in your network to participate, and how did you persuade them?
+
+HOFFMAN: So, we did that, mostly me because I was the person who most knew other super connectors, but that turned out to not be as…
+
+COHEN: Reid sighed as he considered just how to express the fact that his friends weren’t all that helpful.
+
+HOFFMAN: One of the people who was most useful to us was another guest on Masters of Scale, Joi Ito.
+
+COHEN: Joi is now the Director of the MIT Media Lab. He’s known, among other things, for his passion around radically open systems.
+
+HOFFMAN: Joi’s mission was blogging. He wanted it to be an open world where everyone blogging, and everyone’s sharing opinions together – where all of that information was available to anyone.
+
+COHEN: LinkedIn wasn’t quite open enough for Joi. But for Reid’s sake, he gave it a shot.
+
+HOFFMAN: Joi’s like, “Okay, I’m interested enough and curious enough, that I’ll help you do it.” So Joi would actually in fact invite a whole bunch of people, but then Joi was like, “Okay, I have invited a whole bunch of people. I played with it some, I’m bored, I’m now moving on.”
+
+COHEN: This happened more than once, with Reid’s friends.
+
+HOFFMAN: If they were friends of mine, they went, “Okay, I’m curious, I’m motivated enough to try it. But this isn’t how I think the world should operate. It’s not to say I’m against it, but this isn’t my mission.”
+
+COHEN: “This isn’t my mission.” The words that stopped a thousand projects dead in their tracks. And that’s the problem with relying on friends and family. Friends will do you a favor. Friends will show up. But if you’re going to persuade friends and family to play more than a fleeting role in building your business you have to make sure that role turns each of them into a hero – in their own story.
+
+And this is where I wanted to test the theory with Arianna Huffington. I believe Arianna is the undisputed master of this particular hero-making art. Before she became CEO of Thrive Global, she launched the Huffington Post. She had uncanny success getting people who matter to write about what mattered to them. It started from the very beginning.
+
+ARIANNA HUFFINGTON: Huffington Post, the first person I asked to participate was Arthur Schlesinger.
+
+COHEN: Arthur Schlesinger was, of course, the Pulitzer-Prize winning, Kennedy family chronicling, liberal world hobnobbing historian and thinker. He was someone who mattered. He was also 87 years old.
+
+HUFFINGTON: First of all, he asked me – I called him up – and he said “What’s blogging?” And it was 2005, okay? I started explaining what blogging is and he said “You know what? Why don’t you come to lunch at the Century Club and explain it to me.”
+
+COHEN: The Century Club is exactly where an 87-year-old liberal historian would take someone whose ideas bemused him.
+
+HUFFINGTON: So he took me to lunch at this very staid club and there I was explaining blogging. He said “Okay I get it. So, if I have some idea, or something happens, and I want to respond, I’ll fax it to you.”
+
+There were some purists who said “Well if he faxes it to you, that’s not blogging.
+And I said “As far as I’m concerned, he can send it by carrier pigeon.”
+
+COHEN: Notice Arianna’s stance here. She knows that even when she’s making someone a hero – in their own story – she still has to make it easy for them. And that might mean receiving “blog posts” by fax.
+
+In June of that year, Arthur faxed Arianna a “blog post.” It was titled “What in God’s Name Is Going on at the Air Force Academy?” It was a fiery indictment of religious harassment in the military, and a chapter in the historian’s own story of hero-dom.
+
+This was a formula Arianna would use again and again. The Huffington Post became an engine driven by other people’s passions. And her new venture Thrive Global, operates on the same principle. I’ve wanted for years to know Arianna’s secret techniques. How does she persuade people to participate?
+
+HUFFINGTON: I think it’s always a question of what are you giving back? When I left the Huffington Post, we had 100,000 contributors. And what they got is distribution. It’s the same principle here at Thrive.
+
+The message here is: we don’t care about exclusivity. You take out rights, they own the rights, they can do anything they want with it. And what you give them is the fact you have 30 million users cross platform. It’s an easy task.
+
+COHEN: It’s an easy ask – because Arianna isn’t just taking something. She’s giving each contributor a chapter in their story of herodom.
+
+HUFFINGTON: For me the bottom line is: Are we adding value as well as getting value?
+
+COHEN: Reid was also creating a platform that would add value as well as getting value for each new user. But growth was still slow. So while LinkedIn began as a closed network, requiring an invitation, Reid soon realized: He had to open it up.
+
+HOFFMAN: This was one of the things we hotly debated in the beginning, should we only allow you to come into LinkedIn by referral and by connection? So, it’s just we start with 13 employees, who sent out a bunch of connections, those people send out other connections, and we do that.
+
+The reason we decided to allow anyone to sign up, and then send connections is we wanted the fastest possible path to the set of people who are like, “I believe in this network. I believe the network could be valuable. So, I’ll sign up and then I’ll invite a whole bunch of people.”
+
+COHEN: So it seems like those very first important adopters are those who not only wanted to expand their own network but to actively sort of campaign for the idea of networks in the world. Was there a way that you found that first set or did they find you?
+
+HOFFMAN: We couldn’t find them very easily, you couldn’t target them. So you just did press. We had a very media heavy strategy at the beginning. That gave us the critical mass to build that network on top of it.
+
+COHEN: LinkedIn got to critical mass by opening up their signups. But they also innovated relentlessly on the techniques that would engage and re-engage users, based on social interactions. Among their innovations was the now-common practice of showing new users the people in their own network who were already on the site.
+
+HOFFMAN: When people arrive at a social network, the first question is, “Who else is here? Is this a place for me? How do you know it’s a place for you? Are other people that are like me here?” It’s a little bit like, you walk into a party and you look around, and if you’re a Goth person and everyone is preppy, you’re like, “Oh, I’m in the wrong place. I am going to turn around and I’m going to leave.”
+
+COHEN: When people arrived at LinkedIn, Reid wanted them to immediately see people who were like them, so they would think: “This is a place for me.” The best way to do that? Show them people they actually know.
+
+HOFFMAN: It’s like, “Oh, June, this person you know, Reid is here, or John Lilly is here.” And, you go, “Oh, well that’s the person that I care about, and I’ll connect with them.”
+
+COHEN: John Lilly is the former CEO of Mozilla, by the way. He’s also the person who introduced Reid and I.
+
+HOFFMAN: Then that will get me into the loop, where then you send an invite to John Lilly. John replies, both of you are reactivated because you reactivated John when you send him an invite, he came in and accepted it. That acceptance came back to you, both of those gives you another touch point, by which you come back to the site. You can then discover other people you know, and that’s how the loop goes where you send out other invitations that brings you back to the site.
+
+COHEN: This was one of many so-called “viral loops” on LinkedIn that kept people coming back, and bringing their friends, over and over. With the viral loops in full swing, LinkedIn’s user base started growing exponentially – and so did their need for staff. Here, too, Reid took an unconventional approach.
+
+HOFFMAN: Unlike most founders who are like, “You should work at this company forever.” My view was, “Some people should work with this company forever, and some people should work in this company for some time – and then go off and do other things.”
+
+COHEN: It’s easy to miss just how contrarian this idea is. Most companies treat departed employees like pariahs, not partners. But as we heard in Part 1, Reid believes in “tours of duty.” And at LinkedIn, he found a champion for this idea in his colleague Kevin Scott.
+
+HOFFMAN: Now, Kevin Scott, who is the head of engineering and the CTO of LinkedIn, and is now the CTO of Microsoft, also had a similar view of the world.
+
+COHEN: Kevin codified this idea in an interview question for new hires:
+
+HOFFMAN: “What’s the job that you want next that’s potentially outside of LinkedIn?” And, explicitly it’s like, so you’d say, “Look, we’re going to help you get to this new level in your career, and obviously there’s a mutual interest if it works out that it’s at LinkedIn. But in many cases it won’t. And, how do we both massively benefit from your being here and massively benefit you?“
+
+COHEN: Under Reid’s leadership, LinkedIn would join forces with each employee for a specific stretch of time – on a mission that made the employee a hero in their own story and the company’s.
+
+And Reid took the same approach with himself. Most founders cling tightly to the role of CEO. To step down can be seen as failure. But Reid was never preoccupied with holding the title of Grand Poobah. And after four years as CEO – in which LinkedIn became living proof of his theories – Reid was ready for his next tour of duty.
+
+HOFFMAN: I look at my impact across the scale of humanity, and I want to have multiple things that have had this [impact on the] evolution of human culture. LinkedIn is one of those. LinkedIn is: How do we have every individual have an ability to take control of their own trajectory, investing in themselves economically, what their career path looks like. And that is really important to me, part of what my story is, and how I impact the world. But I also had other things that really matter to me.
+
+COHEN: A lot of things matter to Reid. He wanted to continue investing and join boards. He wanted to study AI and its potential for humanity. He wanted to play the role of public intellectual. Reid needed the freedom to round out his own story of hero-dom.
+
+HOFFMAN: As a LinkedIn CEO you have to be 100% or 150% focused on the organization. And so, because I wanted LinkedIn to succeed with this mission, but I also wanted to do these other things – that was part of the reason why I realized was I needed another co-founder who is the CEO. So someone who also goes, “This is my life, this is my mission.”
+
+COHEN: Notice how Reid was looking for not just a CEO, but a “co-founder.” I asked him what makes someone a “co-founder” when they join the company years after its founded? It comes down to what makes them feel like a hero.
+
+HOFFMAN: Part of the difference I think between a CEO and a co-founder is that a co-founder is trying to build an institution for the ages: “I will have failed if the mission that the company is in the world isn’t succeeding. Even if all the metrics and the business, and the equity went up, and we’re celebrated in the business press, if we’re not actually hitting our mission objectives then we’re failing.”
+
+COHEN: A CEO thinks: I’m a hero if we hit our numbers. A Co-founder thinks: Hitting my numbers isn’t enough. Reid was looking for a cofounder. And he knew he couldn’t just bring in a COO to report to him.
+
+HOFFMAN: It was like, no, no, I want someone who is going, “I win as the hero.”
+
+People have this drive to be the hero of their own story. And so, when you are composing a team, but at most especially when you’re composing executives or CEOs, they also have to have the ability to play that hero narrative.
+
+Copy Link
+Inside LinkedIn’s CEO transition from Reid to Jeff Weiner
+
+COHEN: And so Reid brought in Jeff Weiner as CEO. They both knew the transition could be perilous. Organizations don’t easily swap out their leaders.
+
+HOFFMAN: CEO transitions are super difficult because they are brain transplants, and they have all of the same potential downsides, also upsides, but of a brain transplant.
+
+COHEN: As with any kind of transplant, the new CEO runs the risk of being rejected. So Reid followed a very specific playbook to set Jeff up as the new hero of the business. Jeff learned about it on a phone call with Reid.
+
+JEFF WEINER: Before I started, I called him and I said, “How would you like this to work?”
+
+COHEN: That’s Jeff Weiner, by the way.
+
+WEINER: “What decisions would you like me to make? What do you want to make?”
+
+And he said “That’s easy, it’s your ball. You run with it.”
+
+And I said, “Well what do you mean?”
+
+HOFFMAN: You get the whole organization to adjust to Jeff being the CEO.
+
+WEINER: And he said, “It’s really important when bringing somebody in from the outside to make sure that everyone understands that that person will be responsible for the decisions.”
+
+Reid took it a step further and being as thoughtful as he is, recognized that people would still come back you know with muscle memory and go directly to Reid on decisions.
+
+HOFFMAN: I’d get calls from people saying, “Oh, “X is broken. You need to solve it.”
+
+WEINER: He pretty much planned about six to eight weeks of time outside of the office over the course of my first 10 weeks at LinkedIn.
+
+HOFFMAN: I was accepting any speaking engagement. It’s the only time in my life where if the Weaver’s Society of Canada asked me to speak, I would go speak to the Weaver’s Society of Canada. I would get back, I would say, “Is it solved or not?”
+
+WEINER: So that people had to re-establish connective tissue with the new guy.
+
+HOFFMAN: More than half the time the person would get impatient, go solve it with Jeff and other people and would say, “Oh yeah, we got it solved.”
+
+COHEN: Another thing Reid did to make Jeff a hero? He took himself out of the hero game.
+
+HOFFMAN: I didn’t allow any exceptions. “Jeff’s the CEO you gotta work for Jeff.”
+
+WEINER: I don’t think I can overstate the importance of how this was set up.
+
+HOFFMAN: It was like, “Oh, right actually Jeff’s great, we can work together on this. This really, really works.” But it required that rewiring.
+
+WEINER: Without that foundation and that clarity of who is responsible for what, it’s going to be really challenging to scale.
+
+COHEN: It’s not enough to just give someone a cape and a push off the side of a building, then expect them to soar. Reid knew that for Jeff to succeed, he had to be cast in the hero’s role.
+
+Jeff – and LinkedIn – did soar. Jeff took the company public in 2011. Reid continued as Board Chair for LinkedIn. By the beginning of 2016, LinkedIn revenue was close to $3 billion dollars. But they were still striving.
+
+HOFFMAN: Our aspirations were how do we become part of the daily work habit for people? In order to play that game, we need to be able to have the public market buy-in the same way you see a public market buy-in for Amazon or other companies saying, “Hey, we aren’t the pure cash printers like a Google, or a Microsoft, but we believe in the future that we’re investing in.”
+
+COHEN: LinkedIn could have achieved this itself. But with the right partner, they could propel themselves further and faster along their hero’s journey. Of course, we all know who they ultimately chose. Microsoft bought LinkedIn in 2016 for $26 billion dollars.
+
+HOFFMAN: The Microsoft mission fits very well with the LinkedIn mission. The Microsoft mission is, how do we make organizations much more productive? And that includes the individuals in the organizations.
+
+It isn’t “Microsoft has to change its mission,” it isn’t “LinkedIn has to change its mission,” it’s that the missions are already collaborators.
+
+COHEN: It was a combination that would allow both Microsoft and LinkedIn to be heroes in their own respective missions, missions that boosted each other’s aims.
+
+But before LinkedIn took the plunge, they had to look at whether the combination would allow everyone involved to continue on their hero’s journeys.
+
+HOFFMAN: And then it was like, “Okay well will this work for the rest of the constituencies? Will it work for the shareholders? Will it work for the employees? Will it work for the customers?” It was like, “Yeah we can make that all work.”
+
+COHEN: On the face of it, the merger worked for everyone. But it’s no small task to merge two companies and two cultures, with two different heroes: Jeff Weiner for LinkedIn and Satya Nadella for Microsoft. What you’d expect is that Satya would assign one of his loyal, long-time executives to head up the integration. But Satya took a more radical approach. He said to Jeff Weiner:
+
+HOFFMAN: “You’re the integration person.” That’s right. “We’ll make Jeff literally the day-one executive – who has no experience, no connectivity tissue, no history with how Microsoft does stuff. You’re the integration person.”
+
+COHEN: That’s right. Satya put Jeff – the CEO of acquired company – in charge of the integration. This kept Jeff – and LinkedIn – on their hero’s journey. For Satya, it was a radical move. One that paid off.
+
+HOFFMAN: So initially when he proposed that, he had skepticism and then I think six months in everyone went, “Yep, that’s exactly right thing. This is winning. This is working. Microsoft is better off for it.” It wasn’t that you made a decision that was compromising with LinkedIn, you were making that decision for Microsoft that this was the right result, the right choice for Microsoft being in the right place.” And then that all worked.
+
+COHEN: And if you’re wondering: Is it typical to put the CEO of the acquired company in charge of the integration? The answer is: Not at all.
+
+HOFFMAN: I don’t know of another case that has done it like that. Literally there should be a business school case on “This is how LinkedIn and Microsoft did this” – because that is super atypical. And by the way, I don’t think it should become the typical, I think it’s just another tool in the tool chest that is occasionally used.
+
+COHEN: Following the acquisition, Reid took a seat on the Microsoft board – adding it to the portfolio of hero roles he plays across organizations. Ever since he stepped away from the CEO role, Reid gained the freedom to think and act more broadly.
+
+He joined boards of nonprofits like Endeavor and Kiva and Teach for America. He became a sought-out mentor, emerging as the wise soul visited by everyone from startups to heads of state. The New Yorker called him “the Oracle of Silicon Valley.”
+
+Copy Link
+Be passionate about entrepreneurship
+
+And of course, he continued investing, and earned a reputation as a unicorn-spotter. In 2010, the storied Venture Capital firm Greylock Partners asked Reid to join them as a partner. I asked Reid why he said yes. First, it was the people.
+
+HOFFMAN: These two amazing innovators, thinkers, actors, agents, venture capitalists, general partners David Sze and Aneel Bhusri came to me and said, “We’re remaking Greylock here and we’d like you to do that with us.”
+
+COHEN: At a series of dinners, David and Aneel pitched Reid on their vision for Greylock. And Reid? He said things like:
+
+HOFFMAN: “Well maybe we need to experiment on this. Maybe we need to experiment with this. Maybe we need to experiment with this.”
+
+COHEN: Clearly, the ability to experiment was a big draw for Reid…
+
+HOFFMAN: I had a stack of ideas about how to kind of evolve from what I thought of as the Venture 1.0 model to the Venture 2.0 model.
+
+COHEN: …and experimentation is what keeps him at Greylock.
+
+HOFFMAN: I’m still that partner, I’m the person who is most like, “Here’s a bold thing we could try. Here’s a bold thing we could try. Here’s a bold thing we can try.”
+
+COHEN: But even more than bold innovation, it was Greylock’s philosophy that drew Reid – a philosophy that makes the entrepreneur – not the investor – the hero.
+
+HOFFMAN: The culture of Greylock was the kind of culture I’d want. Frequently in Silicon Valley, what’s most important is you’re a VC and Firm X and then the founders kind of work for those VCs. Versus, no, what’s most important is the entrepreneurs and the VCs are the partners, not just pure capital, we work with you and we’re partners at the table, but the heroic success actually comes from the entrepreneurs, and Greylock already had that culture very deeply,
+
+COHEN: Now, in truth, many VC firms say things like “We’re here to support you. How can we help?” That pitch doesn’t always match reality. But I’ve seen firsthand the way Reid works. And he has one key practice that makes this real. When he’s navigating a situation with multiple stakeholders – he always asks: “How do I put the entrepreneur first?” A contentious dealpoint? “Entrepreneurs first.” Strategic move? “Entrepreneurs first.” It’s the first principle that keeps him true to this idea: Let the entrepreneur be the hero in their story.
+
+Which brings me to the podcast you’re now listening to. Ever since we launched Masters of Scale, I’ve had dozens of people ask me, “How did you get Reid Hoffman to say yes?” At first I scratched my head. I didn’t quite understand the question. To me it was obvious. Reid said yes because Deron and I asked him to do something we knew he already wanted to do – to us it seemed like the obvious next chapter in Reid’s story of hero-dom.
+
+First of all, Reid is passionate about entrepreneurship.
+
+HOFFMAN: The key thing that we all know is that all of the jobs of the future are going to come from new creation. Not just new technology companies but new businesses, new industries, and that’s going to be really important for how do we actually have healthy, thriving societies, and good career paths for all of the next generations.
+
+My very deep conviction, based on a fair amount of knowledge, is that this is going to have to come through entrepreneurship and through what Endeavor calls “high impact entrepreneurship”, e.g. massive scale organizations.
+
+COHEN: To inspire that next generation of high-impact entrepreneurs, Reid wanted to scale everything he knew about scaling. He was, in fact, already writing his book, Blitzscaling. We believed that podcasting could be the next medium that helped scale his ideas. He still remembers the conversation
+
+HOFFMAN: You came to me and said, “Hey, there’s this revolution in podcasting. Podcasting is becoming a scale medium. How do we enable these industries of the future, the jobs of the future, the companies of the future? We could all do that with a podcast.”
+
+COHEN: So, as you can see, we didn’t just randomly pitch Reid the idea of doing a podcast. Rather, we brought Reid an idea that we thought might make him a hero in the next chapter of his own story. And it turns out, he thought so too.
+
+HOFFMAN: I was like, “Oh. Hadn’t really thought about that, but that makes sense.” We are aligned on this mission because this ability to get these innovations, these companies, these jobs, these industries, these technologies to scale is precisely how we create massive goods in the world.
+
+Masters of Scale creates that sense of that community of people all rowing in a similar direction while each all rowing in their own direction, in order to make a great new future.
+
+COHEN: A community of people rowing in the same direction while all rowing their own direction. It’s another great metaphor for how to capture the momentum of other people’s passions. Find the alignment between their mission and your mission, so you’re pointing in the same direction. Make them a hero, and they’ll row you to victory.
+
+Copy Link
+Reid’s Lightning Round
+
+That brings us to the end of our theory-proving in this 2-Part Reid Hoffman Extravaganza. But we have one more treat for you. In every Masters of Scale interview, Reid asks the guest 15 standard questions in our Lightning Round.
+
+COHEN: And now, without further ado, the Lightning Round as asked to Reid Hoffman, with just a couple of extra questions thrown in. Reid… I’m sorry, I’m just laughing. I’m so used to these words coming out of your mouth. Settle. Okay Reid, what’s something that’s in your pocket besides your phone?
+
+HOFFMAN: My Tesla car key.
+
+COHEN: I can’t help thinking as an aside that Masters of Scale does finally play properly on the Tesla. Shout out to Gavin Hall for that. Question two: Artificial intelligence fills you with hope or dread? Pick one.
+
+HOFFMAN: Drope? More hope than dread, but the future is what we make it. We have this balance between utopia and dystopia. It’s maybe the most important technology ever. Maybe along with nuclear synthetic biology. Shaping it to utopia is, I think, totally possible, which is the reason I’m a techno optimist, but is not certain, so working on it.
+
+COHEN: I’m going to submit “drope” to the next version of the Oxford dictionary. Next question, your favorite place to think big.
+
+HOFFMAN: It’s funny. It’s not a place for me. The best way that I like to think big is on a one-on-one conversation with a close friend, and it can be almost anywhere where we can have that conversation.
+
+COHEN: It’s such a great answer, Reid, because one of the things we really wanted to capture in this podcast, generally, was the feeling for the other person when they’re having a one-on-one conversation with you. Hopefully our listener, that will resonate with our listeners. Next question, what job would you take if you were out of work tomorrow?
+
+HOFFMAN: I might become a philosopher and write a book on friendship.
+
+COHEN: One object from your childhood that you could never throw away?
+
+HOFFMAN: My original set of fantasy role playing books from RuneQuest, just for the nostalgia value.
+
+COHEN: We would like a photo of those to place on Mastersofscale.com, if possible.
+
+HOFFMAN: I think I’d have to go dig them out of the storage bin, so it might be hard. Might take too much time to do, but we’ll look. We could certainly get pictures of, “This is what they look like.” Mine may be the more difficult work.
+
+COHEN: The one thing you wish your phone could do.
+
+HOFFMAN: You know, I ask these questions to so many other people, but then don’t really… I wish my phone could intuit what is the best emotional mood for the environment I’m in, and be able to play music to that environment.
+
+COHEN: Love that. Your favorite app? I have to say your favorite app and we might have to disqualify your investments, but first I’d actually just like to hear what your favorite app is. That eliminates every app on the phone I think.
+
+HOFFMAN: The apps I use most often is email, so Microsoft Outlook, the Apple mail app because I’m in constant communication with people. Similarly, but boringly, probably the two apps that I most often use are Microsoft OneNote and Evernote, because it’s constantly this thread of ideas and this update to an idea, the new idea, the update to it, the new idea, and that lens of it. There’s probably no other apps that I actually use as robustly as those.
+
+COHEN: The book that most influenced you.
+
+HOFFMAN: You know, it’s funny. The “most X” question is the question I’m always really bad at. Like, you say the person that most influenced me. Well, there’s these 20 people all influenced me in different ways. These 20 books all influenced me in different ways. Most influence is challenging. It’s probably back to my freshman year in college. I guess what I would say is this, because it really opened my mind to how public intellectuals work is, Amusing Ourselves to Death by Neil Postman.
+
+It was public discourse in the age of the television, and there was this notion that here is a person who’s not writing an academic book, but they’re writing a thought book about this medium by which it shapes how we evolve as humanity, as a human society, using these technologies as a part of it, and here is a way of thinking about it, and here’s a way of thinking about kind of the medium as the message by which you would shape the medium, and that would change the way that we operate as human beings.
+
+I think probably reading that as a freshman at Stanford is ultimately the thread that leads to all the work that I was doing with LinkedIn and everything else, because it’s the “How do you build and shape that medium in a way that shapes us becoming, both individual and as a society, our better selves?”
+
+COHEN: Love that. Less profoundly, messy desk or clean desk?
+
+HOFFMAN: Messy desk, but my assistant cleans up all the time.
+
+COHEN: Open office or closed office.
+
+HOFFMAN: Open office, but I’m in meetings so often that the door is closed.
+
+COHEN: Is there a single poem or passage from literature that you’ve memorized, and if so, would you share it?
+
+HOFFMAN: You’d think I would have prepared for this. Two. Hillel: “If I’m only for myself, what am I? If I’m not for myself, who will be for me? If not now, then when?”
+
+Oh, will I get this right? Oh actually, yeah. Hold on, let me get my prop. I created a sticker of it, I like this one so much.
+
+“We shall not cease from exploration and the end of all of our exploring will be to arrive where we started and know the place for the first time.”
+
+“Only those who will risk going too far can possibly find out how far one can go.” TS Eliot.
+
+COHEN: Perfect.
+
+HOFFMAN: I made a sticker of that one because I was like, “Oh I love this quote. And he’s a poet so every word matters!” Anyway,
+
+COHEN: Again, on a completely different level, one thing you have to have in your fridge at all times.
+
+HOFFMAN: Avocados.
+
+COHEN: The single greatest embarrassment of your career.
+
+HOFFMAN: Well, we probably talked about it, which is finding out through the paperwork that I was no longer on the board of the company that I founded.
+
+COHEN: What about the single greatest achievement?
+
+HOFFMAN: I would say I hope that it’s yet to come, but I would say that the making LinkedIn into an enduring institution that goes far beyond my own life. And some of that is hiring Jeff and the executive team, some of that is how you set up the whole company. But it’s the fact that the company will continue to have this massive positive impact on the world far beyond the work of my own hands.
+
+COHEN: Beautiful. Your phone’s ringtone, if anything other than the standard iPhone rumba.
+
+HOFFMAN: Always on silent.
+
+COHEN: One meeting you look forward to each month.
+
+
+[output truncated at 50000 of 54439 characters. Pass a larger max_chars (default 50000) to see more, or use read_page with a ref_id to focus on a smaller section.]
