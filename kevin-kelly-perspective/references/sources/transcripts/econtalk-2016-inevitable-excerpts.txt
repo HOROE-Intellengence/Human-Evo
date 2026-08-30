@@ -1,0 +1,54 @@
+SOURCE: EconTalk, "Kevin Kelly on the Inevitable"
+Host: Russ Roberts. Guest: Kevin Kelly.
+Date: 2016-06-20
+URL: http://www.econtalk.org/archives/2016/06/kevin_kelly_on_1.html
+Status: 一手 (first-hand) — EconTalk publishes an official timestamped audio
+transcript on its own site. The fragments below are the verbatim quotations
+recovered via research tooling; connecting paraphrase is marked as such. This
+is a curated excerpt, not the full transcript — see the URL above for the
+complete original.
+
+ROBERTS CHALLENGES KELLY ON "TRANSFORMATIVE" TECHNOLOGY:
+Roberts, pushing back on how much of what Kelly calls "inevitable" technology
+actually changes daily life:
+"...these are not *transformative* applications..."
+(referring to examples like thermostats and lane-detection systems)
+
+ROBERTS ON THE BOOK'S GEOGRAPHIC BIAS:
+"Your book is a little bit San-Francisco-centric...Is it really true that
+most or all of us can do these glorious things?"
+
+ROBERTS ON ATTENTION AND INTROSPECTION:
+"I worry about contemplation. I worry about introspection. We're so
+bombarded...by *stuff*."
+
+ROBERTS INVOKING HAYEKIAN LIMITS ON KELLY'S DETERMINISM:
+"...you can't repeal the laws of economics."
+
+KELLY'S RESPONSES:
+
+On invisible technology being the marker of success:
+"...it succeeds to the extent that it transforms while we don't see it."
+
+On job displacement, reframed as a generative process rather than a loss:
+"Our jobs into the future will be to invent jobs that we can automate."
+
+On humans retaining a durable premium over automation:
+"...we will prefer, and therefore we will *pay more* to be around humans."
+
+On the limits of his own "inevitability" thesis — this is the line most
+useful for showing Kelly is not a pure determinist:
+"...we don't necessarily have to do everything technology wants."
+
+BIOLOGICAL/EVOLUTIONARY FRAME (paraphrase, not exact quote): Kelly
+distinguishes "macro forms" that are inevitable (the way four-legged
+quadrupeds are a stable large-scale outcome of evolution) from the specific
+"species" or implementations, which remain unpredictable — this is his
+standing answer to "aren't you a technological determinist?"
+
+ANALYST NOTE: Of the four EconTalk appearances (2007, 2010, 2013, 2016), this
+is the most confrontational and highest-density exchange, and Russ Roberts'
+description of Kelly elsewhere in the same conversational tradition — "you are
+not a salesman, you confront the costs" (2010 episode) — is a useful outside
+characterization of Kelly's argumentative style: he concedes specific costs
+readily but almost never concedes the larger thesis.

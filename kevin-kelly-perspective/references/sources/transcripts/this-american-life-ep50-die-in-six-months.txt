@@ -1,0 +1,55 @@
+SOURCE: This American Life, Episode 50 "Shoulda Been Dead", Act One "Die In Six Months"
+Host: Ira Glass. Guest: Kevin Kelly.
+Page: https://www.thisamericanlife.org/50/shoulda-been-dead/act-one
+Full transcript page: https://www.thisamericanlife.org/50/transcript
+Status: 一手 (first-hand). Excerpt below reproduces the short verbatim quotations
+recovered via research tooling, connected by paraphrase where the exact wording
+was not returned. This is NOT a verbatim reproduction of the full episode transcript
+(that remains under This American Life's copyright) — treat the quoted fragments
+below as the load-bearing primary-source evidence, and go to the transcript URL
+above for the complete original.
+
+CONTEXT (paraphrase): Kevin Kelly recounts a formative experience in Jerusalem
+in the 1970s. Resting there, he received what he calls an "assignment" — a
+directive that surfaced in his own mind rather than from any outside person.
+
+VERBATIM FRAGMENT — the assignment itself:
+"I should live as if I would die in six months, that I should really truly live."
+
+VERBATIM FRAGMENT — his first reaction to the idea:
+"...pretty silly..."
+(He goes on to note that despite the reaction, the premise held up logically to him.)
+
+VERBATIM FRAGMENT — what he actually chose to do with the time, which he
+describes as surprising even to himself:
+"...what I wanted to do for six months was to go home and be ordinary, to go
+back to my parents, to help them take out the trash and trim the hedges and
+move furniture around, and to be with them."
+
+VERBATIM FRAGMENT — how he characterizes that choice:
+"...relishing the ordinariness and finding it in some ways as exotic as
+anything that I had traveled to see."
+
+VERBATIM FRAGMENT — the difficulty he found in living the experiment out:
+"...my entire life was shifted to the future..."
+(paraphrase: he found himself constantly justifying present actions by their
+future usefulness, and struggled to stop doing so even while deliberately
+trying to live only in the present.)
+
+VERBATIM FRAGMENT — his ultimate revision of the lesson (NOT a simple
+"seize the day" conclusion — this is the pivot point worth noting for the
+Skill's "changes his mind" material):
+"...it's not actually a very good thing to live entirely in the present,
+that one needs to have a past, and one needs to have a future to be fully
+human."
+
+ANALYST NOTE: This is the primary-source origin of the "pretend you have six
+months to live" anecdote that circulates widely (especially in Chinese-language
+secondary sources) as a decontextualized life-hack. The original context is
+explicitly religious/spiritual (a self-described "assignment" received during
+a period of prayer/reflection in Jerusalem), the resulting behavior was
+aggressively ordinary (helping his parents with chores) rather than adventurous,
+and Kelly's own retrospective conclusion pushes back against "live only in the
+present" as a general prescription. Any Skill content that cites this anecdote
+should preserve this nuance rather than reducing it to "KK says pretend you're
+dying to find clarity."
